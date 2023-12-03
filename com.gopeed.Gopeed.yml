@@ -27,7 +27,7 @@ cleanup:
   
 modules:
   - shared-modules/intltool/intltool-0.51.json
-  - libayatana-appindicator3-0.1.yaml
+  - dependencies/libayatana-appindicator3-0.1.yaml
   - name: gopeed
     buildsystem: simple
     build-commands:
