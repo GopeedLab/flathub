@@ -19,7 +19,7 @@
   <screenshots>
     <screenshot type="default">
       <caption>ui demo</caption>
-      <image type="source">https://raw.githubusercontent.com/GopeedLab/gopeed/main/_docs/img/ui-demo.png</image>
+      <image type="source">https://raw.githubusercontent.com/GopeedLab/website/main/public/images/ui.png</image>
     </screenshot>
   </screenshots>
   <releases>
