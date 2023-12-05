@@ -19,11 +19,11 @@
   <screenshots>
     <screenshot type="default">
       <caption>ui demo</caption>
-      <image type="source">https://raw.githubusercontent.com/GopeedLab/gopeed/main/_docs/img/ui-demo.png</image>
+      <image type="source">https://raw.githubusercontent.com/GopeedLab/website/main/public/images/ui.png</image>
     </screenshot>
   </screenshots>
   <releases>
-    <release version="1.5.0" date="2023-11-29"/>
+    <release version="1.5.1" date="2023-12-03"/>
   </releases>
   <content_rating type="oars-1.1"/>
   <update_contact>valigarmanda55@gmail.com</update_contact>
