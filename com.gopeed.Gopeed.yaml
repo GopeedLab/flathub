@@ -49,6 +49,6 @@ modules:
         path: com.gopeed.Gopeed.metainfo.xml
       - type: script
         commands:
-          - export TMPDIR="XDG_RUNTIME_DIR/app/$FLATPAK_ID"
+          - export TMPDIR="$XDG_RUNTIME_DIR/app/$FLATPAK_ID"
           - /app/gopeed/gopeed
         dest-filename: gopeed.sh
